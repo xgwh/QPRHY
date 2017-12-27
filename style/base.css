@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+.news,h1,h2,h3,h4,h5,h6,.left,.right,ul,li,dl,dd,dt,top,.bottom{display:block;}
+.clearfix:after{display:block; height:0; line-height:0; content:".";visibility:hidden; clear:both;}
+ul,ol{list-style:none;}
+a{text-decoration:none;}
+body{background:url(../images/bass/img_02.jpg) repeat-x left top #e3e3e3;}
+.footer{width:100%;}
+.banner,.nav{margin:0px auto;width:708px;}
+.banner ul{width:175px; padding-top:25px; padding-left:511px;padding-bottom:80px;background:url(../images/bass/img_05.gif) no-repeat 3px bottom;}
+.nav ul{width:427px;padding-left:281px; margin-top:25px; margin-bottom:25px;}
+.nav ul li{width:87px;height:18px; line-height:18px; text-align:center;float:left; background:url(../images/bass/img_04.gif) no-repeat right center;}
+.nav ul li a{font-size:12px; color:#050505;}
+.nav ul li a:hover{color:red;}
+.banner ul li{height:14px; width:65px; float:left; line-height:14px; border-left:1px solid #141007; text-align:center;}
+.banner ul li a{font-size:14px;color:#150600;}
+.footer{background:url(../images/bass/img_03.gif)}
+.footer ol,p{margin:0px auto;width:708px;}
+.footer ol{ padding-top:51px; margin-bottom:9px;display:block;}
+.footer ol li{float:left; height:12px; line-height:12px;border-left:1px solid#692f09; text-align:center;}
+.footer ol li a{font-size:12px; color:#75380b;}
+.footer p{line-height:12px;font-size:12px; color:#75380b;text-align:center;display:block;padding-bottom:38px;}

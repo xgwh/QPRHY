@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+span{color:blue;}
+.box,.img{width:708px;margin:0px auto;}
+.img{margin-bottom:23px;}
+.box .left,.right{float:left;background:#fff;}
+.box .left{width:488px;border:1px solid #71716f;border-radius:10px 10px 0px 0px;}
+.box .left h3{width:456px; height:25px; line-height:25px; color:#57372c; padding-left:30px;font-size:12px; background:url(../images/index/img_07.gif) no-repeat 8px center #b4b4b2; border:1px solid #71716f;}
+.box .left .left_l,.left_r{float:left;width:224px;margin:10px;}
+.box .left dl dt{height:30px; line-height:30px; color:#040404; font-size:16px;padding-top:85px;background:url(../images/index/img_11.gif) no-repeat center top;}
+.box .left dl dt:hover{color:#F00;}
+.box .left dl dd{line-height:20px; color:#737373; font-size:14px;padding-bottom:35px;}
+.box .right{width:205px;margin-left:10px;border-radius:10px 10px 0px 0px; background:#e3e3e3;;}
+.box .right h3{width:173px; height:25px; line-height:25px; color:#57372c; padding-left:30px;font-size:12px; background:url(../images/index/img_07.gif) no-repeat 8px center #b4b4b2; border:1px solid #71716f;border-radius:10px 10px 0px 0px;margin-top:5px;}
+.box .right p{line-height:20px; padding:10px 11px 22px 23px; font-size:12px; color#724c25;width:168px;border:1px solid #71716f;background:#fff;}

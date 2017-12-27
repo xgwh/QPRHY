@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+span{color:blue;}
+.box{margin:0px auto; width:715px;}
+.box h3{;height:15px; line-height:15px; font-size:14px; color:#4d311b;}
+.img{margin:0px auto;width:715px;margin-top:12px; margin-bottom:12px;}
+.box .left,.right{float:left;margin-bottom:30px; background:#fff;margin-top:13px;}
+.box .left{border:1px solid #9c9c9c; width:206px;border-radius:10px 10px 0px 0px;}
+.box .left h3{color:#5a3518; font-size:12px; background:url(../images/zhishi%20new/img_07.gif) no-repeat 8px center #b6afbf; width:176px;padding-left:30px;height:24px; line-height:24px; border:1px solid #9c9c9c; border-radius:10px 10px 0px 0px;}
+.box .left ul{width:155px;margin-bottom:373px; padding:13px 23px 0px 28px;}
+.box .left ul li{height:18px; line-height:18px; border:1px solid #adadad; margin-top:8px;background:url(../images/zhishi%20new/img_033.gif) no-repeat right center;}
+.box .left ul li a{font-size:12px; color:#000000;padding-left:6px;}
+.box .right{width:491px; margin-left:10px;}
+.box .right h3{color:#5a3518; font-size:12px; background:url(../images/zhishi%20new/img_07.gif) no-repeat 8px center #b6afbf; width:461px;padding-left:30px;height:24px; line-height:24px; border:1px solid #707070; border-radius:10px 10px 0px 0px;}
+.box .right h5{width:409px; height:24px; line-height:24px; font-size:12px; color:#010101;margin-left:40px; }
+.box .right h5 span{color:#da0d12;}
+.box .right .img_1,.img_2{float:left;}
+.box .right .img_1{width:207px;color:#010101; font-size:12px;margin-left:40px; }
+.box .right  h4{height:23px; line-height:23px; color:#5e3310;margin-bottom:5px;font-size:12px;}
+.box .right .img_2{width:213px;color:#010101; font-size:12px;margin-left:23px;}
+.box .right img{margin-top:22px;padding-bottom:96px;}
